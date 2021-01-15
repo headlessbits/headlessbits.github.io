@@ -1272,6 +1272,10 @@ input[type='checkbox'] {
 	font-size: 1.25rem;
 }
 
+.slider-2 a.swiper-subtitle:hover {
+	color: #ef4b5b;
+}
+
 
 /********************/
 /*     Download     */
@@ -2170,6 +2174,10 @@ a:hover.back-to-top {
 	.tabs #tab-2 .list-unstyled.first,
 	.tabs #tab-4 .list-unstyled.first {
 		margin-right: 3rem;
+	}
+
+	.tabs #tab-4 .list-unstyled {
+		margin-top: 1rem;
 	}
 
 	.tabs #tab-2 .li-space-lg li,
